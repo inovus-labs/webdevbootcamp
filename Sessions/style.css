@@ -1,0 +1,38 @@
+.blue {
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: medium;
+    font-weight: 750;
+}
+
+#red {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    font-size: x-large;
+}
+
+.common {
+    background-color: thistle;
+}
+/* 
+.button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+
+
+} */
+
+.btn {
+    /* margin-top: 25px;
+    margin-left: 50px;
+
+    padding-top: 10px;
+    padding-left: 20px; */
+
+    margin: 20px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    /* border: 5px solid; */
+}
